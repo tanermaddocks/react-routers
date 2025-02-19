@@ -1,8 +1,46 @@
-# React + Vite
+# Example ReactJS Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Pages 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- `localhost:5173/`
+	- Homepage
+		- Header
+		- Footer
+		- Navbar
+			- Link to Homepage
+			- Link to About
+			- Link to Contact
+			- Link to Projects
+		- Welcome message
+		- Brief intro message
+		- Link to Contact page 
+- `localhost:5173/about`
+	- About Page 
+		- Header
+		- Footer
+		- Navbar
+			- Link to Homepage
+			- Link to About
+			- Link to Contact
+			- Link to Projects
+		- About Page content 
+- `localhost:5173/contact`
+	- Contact Page 
+		- Header
+		- Footer
+		- Navbar
+			- Link to Homepage
+			- Link to About
+			- Link to Contact
+			- Link to Projects
+		- Contact Page content 
+- `localhost:5173/projects`
+	- Project Page 
+		- Header
+		- Footer
+		- Navbar
+			- Link to Homepage
+			- Link to About
+			- Link to Contact
+			- Link to Projects
+		- Project Page content 
