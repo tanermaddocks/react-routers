@@ -6,7 +6,7 @@ import { BasePageLayout } from './pages/layouts/BasePageLayout';
 import { HomePage } from './pages/HomePage';
 import { AboutPage } from './pages/AboutPage';
 import { ContactPage } from './pages/ContactPage';
-import { ProjectPage } from './pages/ProjectsPage';
+import { ProjectsPage } from './pages/ProjectsPage';
 // import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
@@ -29,7 +29,7 @@ createRoot(document.getElementById('root')).render(
                 <Route path='contact' element={<ContactPage />} />
 
                 {/* localhost:5173/projects */}
-                <Route path='projects' element={<ProjectPage />} />
+                <Route path='projects' element={<ProjectsPage />} />
               </Route>
 
 

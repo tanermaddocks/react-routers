@@ -1,8 +1,11 @@
+import { Redirector } from "../components/Redirector";
 
-
-export function ProjectPage(){
+export function ProjectsPage(){
 
 	return(
-		<h1>Project page component as a page!</h1>
+		<>
+			<h1>Project page component as a page!</h1>
+			<Redirector />
+		</>
 	)
 }
