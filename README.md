@@ -44,3 +44,15 @@
 			- Link to Contact
 			- Link to Projects
 		- Project Page content 
+			- Summary view of each project
+			- Link to detailed project page per project
+- `localhost:5173/projects/:projectName`
+	- Detailed Project Page 
+		- Header
+		- Footer
+		- Navbar
+			- Link to Homepage
+			- Link to About
+			- Link to Contact
+			- Link to Projects
+		- Detailed Project Page content 
